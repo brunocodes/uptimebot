@@ -21,7 +21,7 @@ export default class NavFooter extends Component {
                                 <br />
                             </Col>                    
                         </Row>                
-                        <p className="text-center">Copyright © {currentYear} UpBotBot</p>
+                        <p className="text-center">Copyright © {currentYear} UpTimeBot</p>
                     </Container>
                 </Nav>
             </div>
