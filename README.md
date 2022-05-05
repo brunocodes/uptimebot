@@ -28,7 +28,7 @@ PRODUCTION=false
 PORT=5050
 ```
 
-## Replace YOURCLIENTID with you Discord client ID in the /client/src/env.json file.
+## Replace YOURCLIENTID with your Discord client ID in the /client/src/env.json file.
 ```
 "bot_link": "https://discord.com/api/oauth2/authorize?client_id=YOURCLIENTID&permissions=149504&response_type=code&redirect_uri=http%3A%2F%2Flocalhost%3A5050%2Fauth%2Fdiscord%2Fcallback&scope=bot&guild_id="
 ```
