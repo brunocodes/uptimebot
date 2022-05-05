@@ -3,7 +3,7 @@ MERN Stack uptime monitoring web app and Discord Bot. Receive discord notificati
 
 ### Alpha v0.0.7:
 HTTP and HTTPS monitoring
-* Monitoring HTTP that you expect a 200 Status result. 
+* Monitoring HTTP requests that you expect a 200 status result. 
 * Set and monitor request latency.
 
 ##  Installation
