@@ -11,7 +11,7 @@ import ServerList from './dashboard/ServerList';
 import Monitoring from './dashboard/Monitoring';
 import AddMonitor from './dashboard/AddMonitor';
 import NavFooter from './dashboard/nav/NavFooter';
-// import OverView from './dashboard/UserEventLogs';
+
 
 class App extends React.Component {
   state = {
@@ -91,9 +91,6 @@ class App extends React.Component {
             />}
           />           
         </Switch>
-          {/* <Route path="/overview" >
-            <OverView />
-          </Route> */}
           <Route path="/release" >
             <ReleaseNotes />
           </Route>
