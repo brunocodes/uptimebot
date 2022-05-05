@@ -8,9 +8,10 @@ HTTP and HTTPS monitoring
 
 ##  Installation
 ```bash
-git clone https://github.com/budthepit/bud_the_bot.git
-cd bud_the_bot
+git clone https://github.com/brunocodes/uptimebot.git
+cd uptimebot
 npm install
+cd client install
 ```
 ## Replace the .env.example with your .env file and add discord client id, secret, session secret, Discord Bot Oauth and database link
 ```bash 
